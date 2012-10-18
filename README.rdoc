@@ -1,3 +1,0 @@
-== RailsTutorial
-
-This is a repository dedicated to the first application of the Rails Tutorial
